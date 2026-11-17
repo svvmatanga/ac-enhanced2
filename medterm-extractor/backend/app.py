@@ -45,7 +45,24 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "data", "medical_dictionary.csv")
 FRONTEND_DIR = os.path.join(os.path.dirname(BASE_DIR), "frontend")
 OCR_CACHE_PATH = os.path.join(BASE_DIR, "ocr_cache.sqlite3")
-ocr_cache = OCRCache(OCR_CACHE_PATH)
+
+
+def _writable_cache_path(path):
+    """Hosts such as Hugging Face Spaces run the container as a non-root user,
+    so the app folder can be read-only. Copy the bundled cache to /tmp then
+    (new entries last until the container restarts)."""
+    if os.access(os.path.dirname(path), os.W_OK) and (
+            not os.path.exists(path) or os.access(path, os.W_OK)):
+        return path
+    import shutil
+    import tempfile
+    tmp_path = os.path.join(tempfile.gettempdir(), "ocr_cache.sqlite3")
+    if not os.path.exists(tmp_path) and os.path.exists(path):
+        shutil.copyfile(path, tmp_path)
+    return tmp_path
+
+
+ocr_cache = OCRCache(_writable_cache_path(OCR_CACHE_PATH))
 
 app = Flask(__name__, static_folder=FRONTEND_DIR, static_url_path="")
 
@@ -326,7 +343,7 @@ def ocr():
     if not image_bytes:
         return jsonify({"error": "Uploaded image is empty."}), 400
 
-    raw_text = ocr_cache.get(image_bytes)
+    raw_text, cache_match, _score = ocr_cache.lookup(image_bytes)
     cached = raw_text is not None
     if not cached:
         try:
@@ -351,6 +368,7 @@ def ocr():
         "text": text,
         "raw_text": raw_text,
         "cached": cached,
+        "cache_match": cache_match,  # "exact" | "similar" (phone re-save) | None
     })
 
 
