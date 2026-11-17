@@ -43,7 +43,7 @@ from memory_layout import get_run_memory_layout
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "data", "medical_dictionary.csv")
-FRONTEND_DIR = os.path.join(os.path.dirname(BASE_DIR), "frontend")
+FRONTEND_DIR = os.path.join(os.path.dirname(BASE_DIR), "public")
 OCR_CACHE_PATH = os.path.join(BASE_DIR, "ocr_cache.sqlite3")
 
 
