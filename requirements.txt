@@ -1,0 +1,4 @@
+Flask==3.0.3
+numpy>=1.26.0
+Pillow
+pillow-heif>=0.9.0
