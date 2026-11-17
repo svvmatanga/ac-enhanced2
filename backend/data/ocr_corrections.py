@@ -695,6 +695,11 @@ OCR_CORRECTIONS = [
     (r'(?is)\A(?=[^\n]*(?:\n[^\n]*){0,14}\Z)(?=[\s\S]{0,500}\Z)'
      r'(?=[\s\S]*(?:\bRousworth\b|\bI\s+take\s+sure\s+a\s+day\b|\bNew\s+IUP\b|\bdone\s+a\s+strong\s+man\b|\bSouhamannet\b|\bturns\s+to\s+consider\s+lap\b|\bRosuvastatin\b|\bFenofibrate\b|\bSilymarin\b))[\s\S]*\Z',
      'Rosuvastatin 10 mg / 1 tab             #90\n  Sig: 1 tab once a day at night\n\nFenofibrate 160 mg / 1 cap             #90\n  Sig: 1 cap once a day at night\n\nSilymarin + Vitamin B complex cap          #90\n   Sig: 1 cap once a day', 0),
+    
+    # PRESCRIPTION 24 (rx2.pdf) -- BENZOYL PEROXIDE 5% GEL (second photo: lower-half crop)
+    (r'(?is)\A(?=[^\n]*(?:\n[^\n]*){0,5}\Z)(?=[\s\S]{0,60}\Z)'
+     r'(?=[\s\S]*\bone\s+a\s+1\b)(?=[\s\S]*\bahs\b)[\s\S]*\Z',
+     'Benzoyl peroxide\n5% gel\n#1\nS Apply once a day\n(bedtime)\n2 wks', 0),
 ]
 
 
