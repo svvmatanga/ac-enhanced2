@@ -1,0 +1,2178 @@
+﻿term,category,meaning,drug_type
+BIOGESIC,Drug,,Brand
+PARACETAMOL,Drug,,Generic
+AMOXICILLIN,Drug,,Generic
+AMOXICILLIN TRIHYDRATE,Drug,,Generic
+AMOXICILLIN CLAVULANATE,Drug,,Generic
+CO-AMOXICLAV,Drug,,Generic
+CO AMOXICLAV,Drug,,Generic
+COAMOXICLAV,Drug,,Generic
+CEFALEXIN,Drug,,Generic
+CEFIXIME,Drug,,Generic
+METRONIDAZOLE,Drug,,Generic
+CIPROFLOXACIN,Drug,,Generic
+AZITHROMYCIN,Drug,,Generic
+LOSARTAN,Drug,,Generic
+AMLODIPINE,Drug,,Generic
+METFORMIN,Drug,,Generic
+GLICLAZIDE,Drug,,Generic
+OMEPRAZOLE,Drug,,Generic
+RANITIDINE,Drug,,Generic
+LOPERAMIDE,Drug,,Generic
+CETIRIZINE,Drug,,Generic
+SALBUTAMOL,Drug,,Generic
+IBUPROFEN,Drug,,Generic
+MEFENAMIC ACID,Drug,,Generic
+ASCORBIC ACID,Drug,,Generic
+MULTIVITAMINS,Drug,,Generic
+FERROUS SULFATE,Drug,,Generic
+HYDROCORTISONE,Drug,,Generic
+PREDNISONE,Drug,,Generic
+INSULIN,Drug,,Generic
+CLINDAMYCIN,Drug,,Generic
+DICLOFENAC,Drug,,Generic
+TRAMADOL,Drug,,Generic
+MONTELUKAST,Drug,,Generic
+IPRATROPIUM/SALBUTAMOL,Drug,,Generic
+INOFLOX,Drug,,Brand
+DOLCET,Drug,,Brand
+CEFUROXIME,Drug,,Generic
+CEFUREX,Drug,,Brand
+CELECOXIB,Drug,,Generic
+AUBREX,Drug,,Brand
+AMOXIL,Drug,,Brand
+HIMOX,Drug,,Brand
+PONSTAN,Drug,,Brand
+DOMPERIDONE,Drug,,Generic
+HYOSCINE,Drug,,Generic
+LAGUNDI,Drug,,Generic
+SAMBONG,Drug,,Generic
+VITAMIN C,Drug,,Generic
+FLAGYL,Drug,,Brand
+DEXAMETHASONE,Drug,,Generic
+COTRIMOXAZOLE,Drug,,Generic
+CEPHALEXIN,Drug,,Generic
+ERYTHROMYCIN,Drug,,Generic
+AMOXICILLIN-CLAVULANATE,Drug,,Generic
+SULFAMETHOXAZOLE,Drug,,Generic
+TRIMETHOPRIM,Drug,,Generic
+AUGMENTIN,Drug,,Brand
+CLAVAM,Drug,,Brand
+TEMPRA,Drug,,Brand
+CALPOL,Drug,,Brand
+DOLFENAL,Drug,,Brand
+ADVIL,Drug,,Brand
+MEDICOL,Drug,,Brand
+ALAXAN,Drug,,Brand
+SOLMUX,Drug,,Brand
+CARBOCISTEINE,Drug,,Generic
+ASCOF,Drug,,Brand
+DIATABS,Drug,,Brand
+LOPERAMIDE HCL,Drug,,Generic
+LOSARTAN POTASSIUM,Drug,,Generic
+AMLODIPINE BESYLATE,Drug,,Generic
+METFORMIN HYDROCHLORIDE,Drug,,Generic
+ATORVASTATIN,Drug,,Generic
+SIMVASTATIN,Drug,,Generic
+OMEPRAZOLE SODIUM,Drug,,Generic
+PANTOPRAZOLE,Drug,,Generic
+CETIRIZINE HYDROCHLORIDE,Drug,,Generic
+LORATADINE,Drug,,Generic
+FEXOFENADINE,Drug,,Generic
+SALBUTAMOL SULFATE,Drug,,Generic
+CLONIDINE,Drug,,Generic
+NIFEDIPINE,Drug,,Generic
+VALSARTAN,Drug,,Generic
+GLIBENCLAMIDE,Drug,,Generic
+GLIMEPIRIDE,Drug,,Generic
+FOLIC ACID,Drug,,Generic
+VITAMIN B COMPLEX,Drug,,Generic
+VIT B COMPLEX,Drug,,Generic
+B-COMPLEX,Drug,,Generic
+N-ACETYL CYSTEINE,Drug,,Generic
+N-ACETYL,Drug,,Generic
+CYSTEINE,Drug,,Generic
+FLUIMUCIL,Drug,,Brand
+ZYKAST,Drug,,Brand
+AVAMYS,Drug,,Brand
+NASOFLO,Drug,,Brand
+KAMILLOSAN,Drug,,Brand
+BACTIDOL,Drug,,Brand
+AMPICILLIN,Drug,,Generic
+PENICILLIN G,Drug,,Generic
+PENICILLIN V,Drug,,Generic
+BENZATHINE PENICILLIN,Drug,,Generic
+CEFACLOR,Drug,,Generic
+CEFDINIR,Drug,,Generic
+CEFOTAXIME,Drug,,Generic
+CEFTRIAXONE,Drug,,Generic
+CEFTAZIDIME,Drug,,Generic
+CEFEPIME,Drug,,Generic
+LEVOFLOXACIN,Drug,,Generic
+OFLOXACIN,Drug,,Generic
+MOXIFLOXACIN,Drug,,Generic
+NORFLOXACIN,Drug,,Generic
+GATIFLOXACIN,Drug,,Generic
+DOXYCYCLINE,Drug,,Generic
+TETRACYCLINE,Drug,,Generic
+MINOCYCLINE,Drug,,Generic
+GENTAMICIN,Drug,,Generic
+AMIKACIN,Drug,,Generic
+VANCOMYCIN,Drug,,Generic
+MEROPENEM,Drug,,Generic
+IMIPENEM,Drug,,Generic
+PIPERACILLIN TAZACTAM,Drug,,Generic
+AMPICILLIN SULBACTAM,Drug,,Generic
+NITROFURANTOIN,Drug,,Generic
+RIFAMPICIN,Drug,,Generic
+RIFAMPIN,Drug,,Generic
+ISONIAZID,Drug,,Generic
+PYRAZINAMIDE,Drug,,Generic
+ETHAMBUTOL,Drug,,Generic
+STREPTOMYCIN,Drug,,Generic
+CLARITHROMYCIN,Drug,,Generic
+ROXITHROMYCIN,Drug,,Generic
+LINEZOLID,Drug,,Generic
+TEICOPLANIN,Drug,,Generic
+CHLORAMPHENICOL,Drug,,Generic
+SULFADIAZINE,Drug,,Generic
+DAPSONE,Drug,,Generic
+CLOFAZIMINE,Drug,,Generic
+OSELTAMIVIR,Drug,,Generic
+ACYCLOVIR,Drug,,Generic
+VALACYCLOVIR,Drug,,Generic
+RIBAVIRIN,Drug,,Generic
+FLUCONAZOLE,Drug,,Generic
+ITRACONAZOLE,Drug,,Generic
+KETOCONAZOLE,Drug,,Generic
+CLOTRIMAZOLE,Drug,,Generic
+NYSTATIN,Drug,,Generic
+GRISEOFULVIN,Drug,,Generic
+TERBINAFINE,Drug,,Generic
+MICONAZOLE,Drug,,Generic
+ALBENDAZOLE,Drug,,Generic
+MEBENDAZOLE,Drug,,Generic
+PRAZIQUANTEL,Drug,,Generic
+TINIDAZOLE,Drug,,Generic
+IVERMECTIN,Drug,,Generic
+DIPHENHYDRAMINE,Drug,,Generic
+CHLORPHENAMINE,Drug,,Generic
+CHLORPHENIRAMINE,Drug,,Generic
+DESLORATADINE,Drug,,Generic
+LEVOCETIRIZINE,Drug,,Generic
+HYDROXYZINE,Drug,,Generic
+PROMETHAZINE,Drug,,Generic
+BROMPHENIRAMINE,Drug,,Generic
+BUDESONIDE,Drug,,Generic
+FLUTICASONE,Drug,,Generic
+THEOPHYLLINE,Drug,,Generic
+BROMHEXINE,Drug,,Generic
+GUAIFENESIN,Drug,,Generic
+AMBROXOL,Drug,,Generic
+DEXTROMETHORPHAN,Drug,,Generic
+BECLOMETHASONE,Drug,,Generic
+FORMOTEROL,Drug,,Generic
+SALMETEROL,Drug,,Generic
+TIOTROPIUM,Drug,,Generic
+METOPROLOL,Drug,,Generic
+ATENOLOL,Drug,,Generic
+CARVEDILOL,Drug,,Generic
+BISOPROLOL,Drug,,Generic
+PROPRANOLOL,Drug,,Generic
+ENALAPRIL,Drug,,Generic
+CAPTOPRIL,Drug,,Generic
+LISINOPRIL,Drug,,Generic
+RAMIPRIL,Drug,,Generic
+TELMISARTAN,Drug,,Generic
+IRBESARTAN,Drug,,Generic
+CANDESARTAN,Drug,,Generic
+FUROSEMIDE,Drug,,Generic
+SPIRONOLACTONE,Drug,,Generic
+INDAPAMIDE,Drug,,Generic
+DIGOXIN,Drug,,Generic
+ROSUVASTATIN,Drug,,Generic
+CLOPIDOGREL,Drug,,Generic
+PLATEXAN,Drug,,Brand
+WARFARIN,Drug,,Generic
+HEPARIN,Drug,,Generic
+ENOXAPARIN,Drug,,Generic
+ISOSORBIDE DINITRATE,Drug,,Generic
+NITROGLYCERIN,Drug,,Generic
+VERAPAMIL,Drug,,Generic
+DILTIAZEM,Drug,,Generic
+ASPIRIN,Drug,,Generic
+PIOGLITAZONE,Drug,,Generic
+SITAGLIPTIN,Drug,,Generic
+VILDAGLIPTIN,Drug,,Generic
+EMPAGLIFLOZIN,Drug,,Generic
+DAPAGLIFLOZIN,Drug,,Generic
+ACARBOSE,Drug,,Generic
+REPAGLINIDE,Drug,,Generic
+INSULIN GLARGINE,Drug,,Generic
+INSULIN LISPRO,Drug,,Generic
+INSULIN REGULAR,Drug,,Generic
+INSULIN NPH,Drug,,Generic
+ESOMEPRAZOLE,Drug,,Generic
+LANSOPRAZOLE,Drug,,Generic
+FAMOTIDINE,Drug,,Generic
+METOCLOPRAMIDE,Drug,,Generic
+HYOSCINE BUTYLBROMIDE,Drug,,Generic
+SIMETHICONE,Drug,,Generic
+BISACODYL,Drug,,Generic
+LACTULOSE,Drug,,Generic
+SENNA,Drug,,Generic
+ORAL REHYDRATION SALTS,Drug,,Generic
+SUCRALFATE,Drug,,Generic
+MESALAZINE,Drug,,Generic
+DICYCLOVERINE,Drug,,Generic
+PREDNISOLONE,Drug,,Generic
+METHYLPREDNISOLONE,Drug,,Generic
+BETAMETHASONE,Drug,,Generic
+TRIAMCINOLONE,Drug,,Generic
+LEVOTHYROXINE,Drug,,Generic
+PROPYLTHIOURACIL,Drug,,Generic
+METHIMAZOLE,Drug,,Generic
+VITAMIN D,Drug,,Generic
+CALCIUM CARBONATE,Drug,,Generic
+ZINC SULFATE,Drug,,Generic
+THIAMINE,Drug,,Generic
+PYRIDOXINE,Drug,,Generic
+CYANOCOBALAMIN,Drug,,Generic
+TOCOPHEROL,Drug,,Generic
+RETINOL,Drug,,Generic
+ZINC OXIDE,Drug,,Generic
+POTASSIUM CHLORIDE,Drug,,Generic
+MAGNESIUM SULFATE,Drug,,Generic
+CALCIUM GLUCONATE,Drug,,Generic
+TSAANG GUBAT,Drug,,Generic
+AMPALAYA,Drug,,Generic
+BAYABAS,Drug,,Generic
+AKAPULKO,Drug,,Generic
+YERBA BUENA,Drug,,Generic
+BAWANG,Drug,,Generic
+NORMAL SALINE,Drug,,Generic
+PNSS,Drug,,Generic
+D5W,Drug,,Generic
+D5NSS,Drug,,Generic
+LACTATED RINGERS SOLUTION,Drug,,Generic
+TOPICAL SOLUTION,Dosage Form,,
+PLAIN LR,Drug,,Generic
+D5LR,Drug,,Generic
+D50W,Drug,,Generic
+STERILE WATER FOR INJECTION,Drug,,Generic
+BIOFLU,Drug,,Brand
+NEOZEP,Drug,,Brand
+DECOLGEN,Drug,,Brand
+TUSERAN,Drug,,Brand
+ROBITUSSIN,Drug,,Brand
+MUCOSOLVAN,Drug,,Brand
+KREMIL-S,Drug,,Brand
+RIOPAN,Drug,,Brand
+MYLANTA,Drug,,Brand
+BUSCOPAN,Drug,,Brand
+IMODIUM,Drug,,Brand
+ZINNAT,Drug,,Brand
+SUPRAX,Drug,,Brand
+KLACID,Drug,,Brand
+ZITHROMAX,Drug,,Brand
+BACTRIM,Drug,,Brand
+VIBRAMYCIN,Drug,,Brand
+CRAVIT,Drug,,Brand
+FLOXIN,Drug,,Brand
+TIENAM,Drug,,Brand
+ROCEPHIN,Drug,,Brand
+UNASYN,Drug,,Brand
+ZOSYN,Drug,,Brand
+COZAAR,Drug,,Brand
+NORVASC,Drug,,Brand
+MICARDIS,Drug,,Brand
+DIOVAN,Drug,,Brand
+BETALOC,Drug,,Brand
+LASIX,Drug,,Brand
+LIPITOR,Drug,,Brand
+CRESTOR,Drug,,Brand
+PLAVIX,Drug,,Brand
+GLUCOPHAGE,Drug,,Brand
+DIAMICRON,Drug,,Brand
+AMARYL,Drug,,Brand
+LOSEC,Drug,,Brand
+NEXIUM,Drug,,Brand
+PANTOLOC,Drug,,Brand
+ZANTAC,Drug,,Brand
+MOTILIUM,Drug,,Brand
+VOLTAREN,Drug,,Brand
+ULTRAM,Drug,,Brand
+VENTOLIN,Drug,,Brand
+COMBIVENT,Drug,,Brand
+SERETIDE,Drug,,Brand
+SINGULAIR,Drug,,Brand
+ZYRTEC,Drug,,Brand
+CLARITIN,Drug,,Brand
+ALLEGRA,Drug,,Brand
+BENADRYL,Drug,,Brand
+RHINOS,Drug,,Brand
+CARBOCEF,Drug,,Brand
+MYRIN,Drug,,Brand
+DERMOVATE,Drug,,Brand
+DIPROSONE,Drug,,Brand
+CORTAL,Drug,,Brand
+MEDROL,Drug,,Brand
+SOLU-CORTEF,Drug,,Brand
+DECADRON,Drug,,Brand
+SYNTHROID,Drug,,Brand
+EUTHYROX,Drug,,Brand
+BEROCCA,Drug,,Brand
+CENTRUM,Drug,,Brand
+MYRA E,Drug,,Brand
+ENERVON,Drug,,Brand
+CONZACE,Drug,,Brand
+POTEN-CEE,Drug,,Brand
+REDOXON,Drug,,Brand
+CECON,Drug,,Brand
+NEUROBION,Drug,,Brand
+TWYNSTA,Drug,,Brand
+EXFORGE,Drug,,Brand
+CO-DIOVAN,Drug,,Brand
+MICARDIS PLUS,Drug,,Brand
+COVERAM,Drug,,Brand
+CADUET,Drug,,Brand
+SULFAMETHOXYPYRIDAZINE,Drug,,Generic
+HYDROXYPROGESTERONE,Drug,,Generic
+HYDROCHLOROTHIAZIDE,Drug,,Generic
+HYDROXYCHLOROQUINE,Drug,,Generic
+DEXTROAMPHETAMINE SACCHARATE,Drug, ,Generic
+AMPHETAMINE ASPARTATE,Drug, ,Generic
+DEXTROAMPHETAMINE SULFATE,Drug, ,Generic
+AMPHETAMINE SULFATE,Drug,,Generic
+PENTAERYTHRITOL TETRANITRATE,Drug,,Generic
+TECHNETIUM TC99M SESTAMIBI,Drug,,Generic
+PSEUDOEPHEDRINE,Drug,,Generic
+PHENYLEPHRINE,Drug,,Generic
+ACETYLCYSTEINE,Drug,,Generic
+LEVODROPROPIZINE,Drug,,Generic
+BUTAMIRATE,Drug,,Generic
+DIMETAPP,Drug,,Brand
+STREPSILS,Drug,,Brand
+AMINOPHYLLINE,Drug,,Generic
+TERBUTALINE,Drug,,Generic
+EPINEPHRINE,Drug,,Generic
+CEFPODOXIME,Drug,,Generic
+CEFADROXIL,Drug,,Generic
+CLOXACILLIN,Drug,,Generic
+DICLOXACILLIN,Drug,,Generic
+CEFAZOLIN,Drug,,Generic
+FOSFOMYCIN,Drug,,Generic
+PHENAZOPYRIDINE,Drug,,Generic
+TAMSULOSIN,Drug,,Generic
+FINASTERIDE,Drug,,Generic
+ALLOPURINOL,Drug,,Generic
+COLCHICINE,Drug,,Generic
+FEBUXOSTAT,Drug,,Generic
+GLUCOSAMINE SULFATE,Drug,,Generic
+NAPROXEN,Drug,,Generic
+NAPROXEN SODIUM,Drug,,Generic
+FLANAX,Drug,,Brand
+MELOXICAM,Drug,,Generic
+MOBIC,Drug,,Brand
+ETORICOXIB,Drug,,Generic
+ARCOXIA,Drug,,Brand
+KETOROLAC,Drug,,Generic
+TORADOL,Drug,,Brand
+ORPHENADRINE,Drug,,Generic
+NORGESIC,Drug,,Brand
+TIZANIDINE,Drug,,Generic
+METHOCARBAMOL,Drug,,Generic
+ALENDRONATE,Drug,,Generic
+METHYL SALICYLATE,Drug,,Generic
+SALONPAS,Drug,,Brand
+HYDRALAZINE,Drug,,Generic
+METHYLDOPA,Drug,,Generic
+NICARDIPINE,Drug,,Generic
+ISOSORBIDE MONONITRATE,Drug,,Generic
+AMIODARONE,Drug,,Generic
+TRIMETAZIDINE,Drug,,Generic
+FENOFIBRATE,Drug,,Generic
+SILYMARIN,Drug,,Generic
+GEMFIBROZIL,Drug,,Generic
+EZETIMIBE,Drug,,Generic
+PRAVASTATIN,Drug,,Generic
+RIVAROXABAN,Drug,,Generic
+APIXABAN,Drug,,Generic
+PERINDOPRIL,Drug,,Generic
+OLMESARTAN,Drug,,Generic
+SACUBITRIL VALSARTAN,Drug,,Generic
+LINAGLIPTIN,Drug,,Generic
+INSULIN ASPART,Drug,,Generic
+INSULIN DETEMIR,Drug,,Generic
+INSULIN DEGLUDEC,Drug,,Generic
+ATROPINE,Drug,,Generic
+LIDOCAINE,Drug,,Generic
+NALOXONE,Drug,,Generic
+ACTIVATED CHARCOAL,Drug,,Generic
+SODIUM BICARBONATE,Drug,,Generic
+MANNITOL,Drug,,Generic
+ONDANSETRON,Drug,,Generic
+ATTAPULGITE,Drug,,Generic
+RACECADOTRIL,Drug,,Generic
+ENTEROGERMINA,Drug,,Brand
+HYDRITE,Drug,,Brand
+PEDIALYTE,Drug,,Brand
+ALUMINUM HYDROXIDE,Drug,,Generic
+MAGNESIUM HYDROXIDE,Drug,,Generic
+GAVISCON,Drug,,Brand
+DIMENHYDRINATE,Drug,,Generic
+DRAMAMINE,Drug,,Brand
+MECLIZINE,Drug,,Generic
+BONAMINE,Drug,,Brand
+CIMETIDINE,Drug,,Generic
+RABEPRAZOLE,Drug,,Generic
+ITOPRIDE,Drug,,Generic
+TRIMEBUTINE,Drug,,Generic
+PYRANTEL PAMOATE,Drug,,Generic
+PERMETHRIN,Drug,,Generic
+CLOBETASOL,Drug,,Generic
+MOMETASONE,Drug,,Generic
+ELOCOM,Drug,,Brand
+MUPIROCIN,Drug,,Generic
+MUPIROCIN + BETAMETHASONE,Drug,,Generic
+BETAMETHASONE,Drug,,Generic
+BACTROBAN,Drug,,Brand
+FUSIDIC ACID,Drug,,Generic
+FUCIDIN,Drug,,Brand
+SILVER SULFADIAZINE,Drug,,Generic
+POVIDONE IODINE,Drug,,Generic
+BETADINE,Drug,,Brand
+HYDROGEN PEROXIDE,Drug,,Generic
+ISOPROPYL ALCOHOL,Drug,,Generic
+BENZOYL PEROXIDE,Drug,,Generic
+TRETINOIN,Drug,,Generic
+CALAMINE,Drug,,Generic
+TOLNAFTATE,Drug,,Generic
+CANESTEN,Drug,,Brand
+LAMISIL,Drug,,Brand
+TOBRAMYCIN,Drug,,Generic
+ARTEMETHER LUMEFANTRINE,Drug,,Generic
+COARTEM,Drug,,Brand
+CHLOROQUINE,Drug,,Generic
+PRIMAQUINE,Drug,,Generic
+QUININE,Drug,,Generic
+VITAMIN A,Drug,,Generic
+VITAMIN B12,Drug,,Generic
+FERROUS FUMARATE,Drug,,Generic
+FERROUS GLUCONATE,Drug,,Generic
+SANGOBION,Drug,,Brand
+CEELIN,Drug,,Brand
+TIKI-TIKI,Drug,,Brand
+MECOBALAMIN,Drug,,Generic
+TRANEXAMIC ACID,Drug,,Generic
+METHYLERGOMETRINE,Drug,,Generic
+OXYTOCIN,Drug,,Generic
+LEVONORGESTREL,Drug,,Generic
+PROGESTERONE,Drug,,Generic
+CARBAMAZEPINE,Drug,,Generic
+PHENYTOIN,Drug,,Generic
+VALPROIC ACID,Drug,,Generic
+GABAPENTIN,Drug,,Generic
+PREGABALIN,Drug,,Generic
+AMITRIPTYLINE,Drug,,Generic
+SERTRALINE,Drug,,Generic
+FLUOXETINE,Drug,,Generic
+ESCITALOPRAM,Drug,,Generic
+TETANUS TOXOID,Drug,,Generic
+ANTI-TETANUS SERUM,Drug,,Generic
+ANTI-RABIES VACCINE,Drug,,Generic
+HUMAN RABIES IMMUNOGLOBULIN,Drug,,Generic
+TENOFOVIR,Drug,,Generic
+LAMIVUDINE,Drug,,Generic
+DOLUTEGRAVIR,Drug,,Generic
+GLIPIZIDE,Drug,,Generic
+SAXAGLIPTIN,Drug,,Generic
+CANAGLIFLOZIN,Drug,,Generic
+INSULIN GLULISINE,Drug,,Generic
+SEMAGLUTIDE,Drug,,Generic
+LIRAGLUTIDE,Drug,,Generic
+DULAGLUTIDE,Drug,,Generic
+SITAGLIPTIN METFORMIN,Drug,,Generic
+VILDAGLIPTIN METFORMIN,Drug,,Generic
+JANUVIA,Drug,,Brand
+JANUMET,Drug,,Brand
+GALVUS,Drug,,Brand
+GALVUS MET,Drug,,Brand
+TRAJENTA,Drug,,Brand
+ONGLYZA,Drug,,Brand
+JARDIANCE,Drug,,Brand
+FORXIGA,Drug,,Brand
+ACTOS,Drug,,Brand
+GLUCOBAY,Drug,,Brand
+LANTUS,Drug,,Brand
+LEVEMIR,Drug,,Brand
+TRESIBA,Drug,,Brand
+NOVORAPID,Drug,,Brand
+HUMALOG,Drug,,Brand
+ACTRAPID,Drug,,Brand
+HUMULIN,Drug,,Brand
+HUMULIN 70/30,Drug,,Generic
+MIXTARD,Drug,,Brand
+OZEMPIC,Drug,,Brand
+VICTOZA,Drug,,Brand
+TRULICITY,Drug,,Brand
+TAMOXIFEN,Drug,,Generic
+LETROZOLE,Drug,,Generic
+ANASTROZOLE,Drug,,Generic
+EXEMESTANE,Drug,,Generic
+BICALUTAMIDE,Drug,,Generic
+GOSERELIN,Drug,,Generic
+LEUPROLIDE,Drug,,Generic
+CYCLOPHOSPHAMIDE,Drug,,Generic
+METHOTREXATE,Drug,,Generic
+CAPECITABINE,Drug,,Generic
+FLUOROURACIL,Drug,,Generic
+CISPLATIN,Drug,,Generic
+CARBOPLATIN,Drug,,Generic
+OXALIPLATIN,Drug,,Generic
+PACLITAXEL,Drug,,Generic
+DOCETAXEL,Drug,,Generic
+DOXORUBICIN,Drug,,Generic
+GEMCITABINE,Drug,,Generic
+ETOPOSIDE,Drug,,Generic
+VINCRISTINE,Drug,,Generic
+VINORELBINE,Drug,,Generic
+BLEOMYCIN,Drug,,Generic
+HYDROXYUREA,Drug,,Generic
+IMATINIB,Drug,,Generic
+TRASTUZUMAB,Drug,,Generic
+BEVACIZUMAB,Drug,,Generic
+RITUXIMAB,Drug,,Generic
+ERLOTINIB,Drug,,Generic
+GEFITINIB,Drug,,Generic
+OSIMERTINIB,Drug,,Generic
+LEUCOVORIN,Drug,,Generic
+FILGRASTIM,Drug,,Generic
+ZOLEDRONIC ACID,Drug,,Generic
+DELANDISTROGENE MOXEPARVOVEC-ROKL,Drug, ,Generic
+TALIMOGENE LAHERPAREPVEC,Drug,,Generic
+IMLYGIC,Drug,,Brand
+ONABOTULINUMTOXINA,Drug,,Generic
+ABOBOTULINUMTOXINA,Drug,,Generic
+RIMABOTULINUMTOXINB,Drug,,Generic
+INCOBOTULINUMTOXINA,Drug,,Generic
+IDARUCIZUMAB,Drug,,Generic
+PRAXBIND,Drug,,Brand
+LEVETIRACETAM,Drug,,Generic
+SPRITAM,Drug,,Brand
+INVOKANA,Drug,,Brand
+ISAVUCONAZONIUM SULFATE,Drug,,Generic
+CRESEMBA,Drug,,Brand
+LUMEFANTRINE,Drug,,Generic
+USTEKINUMAB,Drug,,Generic
+STELARA,Drug,,Brand
+ADALIMUMAB,Drug,,Generic
+HUMIRA,Drug,,Brand
+OMBITASVIR,Drug,,Generic
+PARITAPREVIR,Drug,,Generic
+RITONAVIR,Drug,,Generic
+DASABUVIR,Drug,,Generic
+ESZOPICLONE,Drug,,Generic
+LUNESTA,Drug,,Brand
+IXABEPILONE,Drug,,Generic
+IXEMPRA,Drug,,Brand
+UMECLIDINIUM BROMIDE,Drug,,Generic
+INCRUSE ELLIPTA,Drug,,Brand
+ANORO ELLIPTA,Drug,,Brand
+ACAMPROSATE CALCIUM,Drug,,Generic
+ACETAMINOPHEN,Drug,,Generic
+ADAPALENE,Drug,,Generic
+ALCOHOL,Drug,,Generic
+ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY,Drug,,Generic
+ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,Drug,,Generic
+AVOBENZONE,Drug,,Generic
+AZITHROMYCIN DIHYDRATE,Drug,,Generic
+BACLOFEN,Drug,,Generic
+BECLOMETHASONE DIPROPIONATE,Drug,,Generic
+BENZALKONIUM CHLORIDE,Drug,,Generic
+BETA CAROTENE,Drug,,Generic
+BIOTIN,Drug,,Generic
+BISMUTH SUBSALICYLATE,Drug,,Generic
+BRIMONIDINE TARTRATE,Drug,,Generic
+BUPROPION HYDROCHLORIDE,Drug,,Generic
+CAFFEINE,Drug,,Generic
+CAPSAICIN,Drug,,Generic
+CHLORHEXIDINE GLUCONATE,Drug,,Generic
+CHLORPHENIRAMINE MALEATE,Drug,,Generic
+CHLORTHALIDONE,Drug,,Generic
+CIPROFLOXACIN HYDROCHLORIDE,Drug,,Generic
+CLONAZEPAM,Drug,,Generic
+CLONIDINE HYDROCHLORIDE,Drug,,Generic
+CYCLOSPORINE,Drug,,Generic
+DEXMEDETOMIDINE HYDROCHLORIDE,Drug,,Generic
+DICLOFENAC POTASSIUM,Drug,,Generic
+DICLOFENAC SODIUM,Drug,,Generic
+DIMETHICONE,Drug,,Generic
+DOCOSANOL,Drug,,Generic
+DOXAZOSIN MESYLATE,Drug,,Generic
+DOXYCYCLINE HYCLATE,Drug,,Generic
+ECHINACEA PURPUREA,Drug,,Generic
+ELTROMBOPAG OLAMINE,Drug,,Generic
+ESCITALOPRAM OXALATE,Drug,,Generic
+ESOMEPRAZOLE MAGNESIUM,Drug,,Generic
+FLORFENICOL,Drug,,Generic
+FLORFINASONE,Drug,,Generic
+GENTAMICIN SULFATE,Drug,,Generic
+HYDRALAZINE HYDROCHLORIDE,Drug,,Generic
+IMIQUIMOD,Drug,,Generic
+LACTOBACILLUS ACIDOPHILUS,Drug,,Generic
+LANREOTIDE ACETATE,Drug,,Generic
+LEVOTHYROXINE SODIUM,Drug,,Generic
+LOPERAMIDE HYDROCHLORIDE,Drug,,Generic
+LORAZEPAM,Drug,,Generic
+LUBIPROSTONE,Drug,,Generic
+MEGESTROL ACETATE,Drug,,Generic
+MENTHOL,Drug,,Generic
+MICONAZOLE NITRATE,Drug,,Generic
+MILNACIPRAN HYDROCHLORIDE,Drug,,Generic
+MINOXIDIL,Drug,,Generic
+MIRTAZAPINE,Drug,,Generic
+MY AFTER PLAN,Drug,,Brand
+MYCOPHENOLATE MOFETIL,Drug,,Generic
+NICOTINE,Drug,,Generic
+OCTINOXATE,Drug,,Generic
+OCTOCRYLENE,Drug,,Generic
+OXYBUTYNIN CHLORIDE,Drug,,Generic
+OXYMETAZOLINE HYDROCHLORIDE,Drug,,Generic
+PANTOPRAZOLE SODIUM,Drug,,Generic
+PETROLATUM,Drug,,Generic
+WHITE PETROLATUM,Drug,,Generic
+PHENYLEPHRINE HYDROCHLORIDE,Drug,,Generic
+PINDOLOL,Drug,,Generic
+POMALIDOMIDE,Drug,,Generic
+POVIDONE-IODINE,Drug,,Generic
+PROPRANOLOL HYDROCHLORIDE,Drug,,Generic
+PSEUDOEPHEDRINE HYDROCHLORIDE,Drug,,Generic
+PYRITHIONE ZINC,Drug,,Generic
+RANITIDINE HYDROCHLORIDE,Drug,,Generic
+RIOCIGUAT,Drug,,Generic
+SALICYLIC ACID,Drug,,Generic
+SERTRALINE HYDROCHLORIDE,Drug,,Generic
+SODIUM FLUORIDE,Drug,,Generic
+SODIUM MONOFLUOROPHOSPHATE,Drug,,Generic
+SODIUM SULFATE,Drug,,Generic
+SUGAMMADEX SODIUM,Drug,,Generic
+TACROLIMUS,Drug,,Generic
+THEOPHYLLINE ANHYDROUS,Drug,,Generic
+TITANIUM DIOXIDE,Drug,,Generic
+TOPIRAMATE,Drug,,Generic
+TRAMADOL HYDROCHLORIDE,Drug,,Generic
+TRAZODONE HYDROCHLORIDE,Drug,,Generic
+TRIAMCINOLONE ACETONIDE,Drug,,Generic
+UNDECYLENIC ACID,Drug,,Generic
+VARENICLINE TARTRATE,Drug,,Generic
+WARFARIN SODIUM,Drug,,Generic
+ZIPRASIDONE HYDROCHLORIDE,Drug,,Generic
+ZIPRASIDONE MESYLATE,Drug,,Generic
+DELANDISTROGENE MOXEPARVOVEC,Drug,,Generic
+CO-NERANTAB,Drug,,Brand
+DIQUAFOSOL,Drug,,Generic
+DIQUAS,Drug,,Brand
+DIBENCOZIDE,Drug,,Generic
+DOLAN FORTE,Drug,,Brand
+FOSKINA-B,Drug,,Brand
+GLYHART,Drug,,Brand
+GLUMET,Drug,,Brand
+HERACLENE FORTE,Drug,,Brand
+INSUGET,Drug,,Brand
+INSUGET 70/30,Drug,,Brand
+LILAC,Drug,,Brand
+LIVERPRIME,Drug,,Brand
+NOVOMIX,Drug,,Brand
+OPTIVE FUSION,Drug,,Brand
+POLYMYXIN,Drug,,Generic
+SINUDRIN,Drug,,Brand
+SINUPRET FORTE,Drug,,Brand
+SODIUM HYALURONATE,Drug,,Generic
+NA HYALURONATE,Drug,,Generic
+SYLPRO,Drug,,Brand
+TELMAN,Drug,,Brand
+FAFEN,Drug,,Brand
+URINORM,Drug,,Brand
+1 NEBULE,Dosage Form,,
+NEBULE,Dosage Form,,
+70/30,Dosage,Humulin 70/30 (70% NPH insulin / 30% regular human insulin),
+6.25MG,Dosage,,
+10U,Dosage,,
+10U-0-10U,Symbol,Take 10 units in the morning and at night (twice daily),
+6U,Dosage,,
+1 GTT,Dosage,,
+10MG/TAB,Dosage Form,,
+10MG/ 1 TAB,Dosage Form,,
+625MG,Dosage,,
+600MG,Dosage,,
+250MG,Dosage,,
+500MG,Dosage,,
+MG,Dosage,Milligram,
+MCG,Dosage,Microgram,
+UG,Dosage,Microgram,
+1G,Dosage,,
+5MG,Dosage,,
+10MG,Dosage,,
+20MG,Dosage,,
+50MG,Dosage,,
+100MG,Dosage,,
+ML,Dosage,Millilitre,
+1 TAB,Dosage Form,,
+2 TABS,Dosage Form,,
+1 TSP,Dosage,,
+5ML,Dosage,,
+10ML,Dosage,,
+1 CAP,Dosage Form,,
+1 VIAL,Dosage Form,,
+1 AMPULE,Dosage Form,,
+200MG,Dosage,,
+400MG,Dosage,,
+1000MG,Dosage,,
+2 CAPS,Dosage Form,,
+2 TABLETS,Dosage Form,,
+1 CAPSULE,Dosage Form,,
+2 CAPSULES,Dosage Form,,
+15ML,Dosage,,
+500MG/TAB,Dosage Form,,
+250MG/TAB,Dosage Form,,
+500MG/CAP,Dosage Form,,
+250MG/CAP,Dosage Form,,
+200MG/CAP,Dosage Form,,
+200MG/TAB,Dosage Form,,
+1MG,Dosage,,
+2MG,Dosage,,
+2.5MG,Dosage,,
+3MG,Dosage,,
+4MG,Dosage,,
+6MG,Dosage,,
+7.5MG,Dosage,,
+8MG,Dosage,,
+12.5MG,Dosage,,
+15MG,Dosage,,
+25MG,Dosage,,
+30MG,Dosage,,
+37.5MG,Dosage,,
+40MG,Dosage,,
+60MG,Dosage,,
+62.5MG,Dosage,,
+65MG,Dosage,,
+75MG,Dosage,,
+80MG,Dosage,,
+90MG,Dosage,,
+110MG,Dosage,,
+120MG,Dosage,,
+125MG,Dosage,,
+130MG,Dosage,,
+140MG,Dosage,,
+150MG,Dosage,,
+160MG,Dosage,,
+175MG,Dosage,,
+180MG,Dosage,,
+210MG,Dosage,,
+220MG,Dosage,,
+225MG,Dosage,,
+240MG,Dosage,,
+260MG,Dosage,,
+275MG,Dosage,,
+280MG,Dosage,,
+300MG,Dosage,,
+310MG,Dosage,,
+320MG,Dosage,,
+325MG,Dosage,,
+350MG,Dosage,,
+375MG,Dosage,,
+420MG,Dosage,,
+425MG,Dosage,,
+450MG,Dosage,,
+460MG,Dosage,,
+475MG,Dosage,,
+480MG,Dosage,,
+520MG,Dosage,,
+525MG,Dosage,,
+550MG,Dosage,,
+560MG,Dosage,,
+575MG,Dosage,,
+580MG,Dosage,,
+610MG,Dosage,,
+620MG,Dosage,,
+630MG,Dosage,,
+640MG,Dosage,,
+650MG,Dosage,,
+660MG,Dosage,,
+670MG,Dosage,,
+675MG,Dosage,,
+680MG,Dosage,,
+690MG,Dosage,,
+700MG,Dosage,,
+710MG,Dosage,,
+720MG,Dosage,,
+725MG,Dosage,,
+730MG,Dosage,,
+740MG,Dosage,,
+750MG,Dosage,,
+760MG,Dosage,,
+770MG,Dosage,,
+775MG,Dosage,,
+780MG,Dosage,,
+790MG,Dosage,,
+800MG,Dosage,,
+810MG,Dosage,,
+820MG,Dosage,,
+825MG,Dosage,,
+830MG,Dosage,,
+840MG,Dosage,,
+850MG,Dosage,,
+860MG,Dosage,,
+870MG,Dosage,,
+875MG,Dosage,,
+880MG,Dosage,,
+890MG,Dosage,,
+900MG,Dosage,,
+910MG,Dosage,,
+920MG,Dosage,,
+925MG,Dosage,,
+930MG,Dosage,,
+940MG,Dosage,,
+950MG,Dosage,,
+960MG,Dosage,,
+970MG,Dosage,,
+975MG,Dosage,,
+980MG,Dosage,,
+990MG,Dosage,,
+1MG/TAB,Dosage Form,,
+2MG/TAB,Dosage Form,,
+2.5MG/TAB,Dosage Form,,
+3MG/TAB,Dosage Form,,
+4MG/TAB,Dosage Form,,
+5MG/TAB,Dosage Form,,
+6MG/TAB,Dosage Form,,
+7.5MG/TAB,Dosage Form,,
+8MG/TAB,Dosage Form,,
+12.5MG/TAB,Dosage Form,,
+15MG/TAB,Dosage Form,,
+20MG/TAB,Dosage Form,,
+25MG/TAB,Dosage Form,,
+30MG/TAB,Dosage Form,,
+37.5MG/TAB,Dosage Form,,
+40MG/TAB,Dosage Form,,
+50MG/TAB,Dosage Form,,
+60MG/TAB,Dosage Form,,
+62.5MG/TAB,Dosage Form,,
+65MG/TAB,Dosage Form,,
+75MG/TAB,Dosage Form,,
+80MG/TAB,Dosage Form,,
+90MG/TAB,Dosage Form,,
+100MG/TAB,Dosage Form,,
+110MG/TAB,Dosage Form,,
+120MG/TAB,Dosage Form,,
+125MG/TAB,Dosage Form,,
+130MG/TAB,Dosage Form,,
+140MG/TAB,Dosage Form,,
+150MG/TAB,Dosage Form,,
+160MG/TAB,Dosage Form,,
+175MG/TAB,Dosage Form,,
+180MG/TAB,Dosage Form,,
+210MG/TAB,Dosage Form,,
+220MG/TAB,Dosage Form,,
+225MG/TAB,Dosage Form,,
+240MG/TAB,Dosage Form,,
+260MG/TAB,Dosage Form,,
+275MG/TAB,Dosage Form,,
+280MG/TAB,Dosage Form,,
+300MG/TAB,Dosage Form,,
+310MG/TAB,Dosage Form,,
+320MG/TAB,Dosage Form,,
+325MG/TAB,Dosage Form,,
+350MG/TAB,Dosage Form,,
+375MG/TAB,Dosage Form,,
+400MG/TAB,Dosage Form,,
+420MG/TAB,Dosage Form,,
+425MG/TAB,Dosage Form,,
+450MG/TAB,Dosage Form,,
+460MG/TAB,Dosage Form,,
+475MG/TAB,Dosage Form,,
+480MG/TAB,Dosage Form,,
+520MG/TAB,Dosage Form,,
+525MG/TAB,Dosage Form,,
+550MG/TAB,Dosage Form,,
+560MG/TAB,Dosage Form,,
+575MG/TAB,Dosage Form,,
+580MG/TAB,Dosage Form,,
+600MG/TAB,Dosage Form,,
+610MG/TAB,Dosage Form,,
+620MG/TAB,Dosage Form,,
+625MG/TAB,Dosage Form,,
+630MG/TAB,Dosage Form,,
+640MG/TAB,Dosage Form,,
+650MG/TAB,Dosage Form,,
+660MG/TAB,Dosage Form,,
+670MG/TAB,Dosage Form,,
+675MG/TAB,Dosage Form,,
+680MG/TAB,Dosage Form,,
+690MG/TAB,Dosage Form,,
+700MG/TAB,Dosage Form,,
+710MG/TAB,Dosage Form,,
+720MG/TAB,Dosage Form,,
+725MG/TAB,Dosage Form,,
+730MG/TAB,Dosage Form,,
+740MG/TAB,Dosage Form,,
+750MG/TAB,Dosage Form,,
+760MG/TAB,Dosage Form,,
+770MG/TAB,Dosage Form,,
+775MG/TAB,Dosage Form,,
+780MG/TAB,Dosage Form,,
+790MG/TAB,Dosage Form,,
+800MG/TAB,Dosage Form,,
+810MG/TAB,Dosage Form,,
+820MG/TAB,Dosage Form,,
+825MG/TAB,Dosage Form,,
+830MG/TAB,Dosage Form,,
+840MG/TAB,Dosage Form,,
+850MG/TAB,Dosage Form,,
+860MG/TAB,Dosage Form,,
+870MG/TAB,Dosage Form,,
+875MG/TAB,Dosage Form,,
+880MG/TAB,Dosage Form,,
+890MG/TAB,Dosage Form,,
+900MG/TAB,Dosage Form,,
+910MG/TAB,Dosage Form,,
+920MG/TAB,Dosage Form,,
+925MG/TAB,Dosage Form,,
+930MG/TAB,Dosage Form,,
+940MG/TAB,Dosage Form,,
+950MG/TAB,Dosage Form,,
+960MG/TAB,Dosage Form,,
+970MG/TAB,Dosage Form,,
+975MG/TAB,Dosage Form,,
+980MG/TAB,Dosage Form,,
+990MG/TAB,Dosage Form,,
+1000MG/TAB,Dosage Form,,
+1MG/CAP,Dosage Form,,
+2MG/CAP,Dosage Form,,
+2.5MG/CAP,Dosage Form,,
+3MG/CAP,Dosage Form,,
+4MG/CAP,Dosage Form,,
+5MG/CAP,Dosage Form,,
+6MG/CAP,Dosage Form,,
+7.5MG/CAP,Dosage Form,,
+8MG/CAP,Dosage Form,,
+10MG/CAP,Dosage Form,,
+12.5MG/CAP,Dosage Form,,
+15MG/CAP,Dosage Form,,
+20MG/CAP,Dosage Form,,
+25MG/CAP,Dosage Form,,
+30MG/CAP,Dosage Form,,
+37.5MG/CAP,Dosage Form,,
+40MG/CAP,Dosage Form,,
+50MG/CAP,Dosage Form,,
+60MG/CAP,Dosage Form,,
+62.5MG/CAP,Dosage Form,,
+65MG/CAP,Dosage Form,,
+75MG/CAP,Dosage Form,,
+80MG/CAP,Dosage Form,,
+90MG/CAP,Dosage Form,,
+100MG/CAP,Dosage Form,,
+110MG/CAP,Dosage Form,,
+120MG/CAP,Dosage Form,,
+125MG/CAP,Dosage Form,,
+130MG/CAP,Dosage Form,,
+140MG/CAP,Dosage Form,,
+150MG/CAP,Dosage Form,,
+160MG/CAP,Dosage Form,,
+160MG/ 1 CAP,Dosage Form,,
+175MG/CAP,Dosage Form,,
+180MG/CAP,Dosage Form,,
+210MG/CAP,Dosage Form,,
+220MG/CAP,Dosage Form,,
+225MG/CAP,Dosage Form,,
+240MG/CAP,Dosage Form,,
+260MG/CAP,Dosage Form,,
+275MG/CAP,Dosage Form,,
+280MG/CAP,Dosage Form,,
+300MG/CAP,Dosage Form,,
+310MG/CAP,Dosage Form,,
+320MG/CAP,Dosage Form,,
+325MG/CAP,Dosage Form,,
+350MG/CAP,Dosage Form,,
+375MG/CAP,Dosage Form,,
+400MG/CAP,Dosage Form,,
+420MG/CAP,Dosage Form,,
+425MG/CAP,Dosage Form,,
+450MG/CAP,Dosage Form,,
+460MG/CAP,Dosage Form,,
+475MG/CAP,Dosage Form,,
+480MG/CAP,Dosage Form,,
+520MG/CAP,Dosage Form,,
+525MG/CAP,Dosage Form,,
+550MG/CAP,Dosage Form,,
+560MG/CAP,Dosage Form,,
+575MG/CAP,Dosage Form,,
+580MG/CAP,Dosage Form,,
+600MG/CAP,Dosage Form,,
+610MG/CAP,Dosage Form,,
+620MG/CAP,Dosage Form,,
+625MG/CAP,Dosage Form,,
+630MG/CAP,Dosage Form,,
+640MG/CAP,Dosage Form,,
+650MG/CAP,Dosage Form,,
+660MG/CAP,Dosage Form,,
+670MG/CAP,Dosage Form,,
+675MG/CAP,Dosage Form,,
+680MG/CAP,Dosage Form,,
+690MG/CAP,Dosage Form,,
+700MG/CAP,Dosage Form,,
+710MG/CAP,Dosage Form,,
+720MG/CAP,Dosage Form,,
+725MG/CAP,Dosage Form,,
+730MG/CAP,Dosage Form,,
+740MG/CAP,Dosage Form,,
+750MG/CAP,Dosage Form,,
+760MG/CAP,Dosage Form,,
+770MG/CAP,Dosage Form,,
+775MG/CAP,Dosage Form,,
+780MG/CAP,Dosage Form,,
+790MG/CAP,Dosage Form,,
+800MG/CAP,Dosage Form,,
+810MG/CAP,Dosage Form,,
+820MG/CAP,Dosage Form,,
+825MG/CAP,Dosage Form,,
+830MG/CAP,Dosage Form,,
+840MG/CAP,Dosage Form,,
+850MG/CAP,Dosage Form,,
+860MG/CAP,Dosage Form,,
+870MG/CAP,Dosage Form,,
+875MG/CAP,Dosage Form,,
+880MG/CAP,Dosage Form,,
+890MG/CAP,Dosage Form,,
+900MG/CAP,Dosage Form,,
+910MG/CAP,Dosage Form,,
+920MG/CAP,Dosage Form,,
+925MG/CAP,Dosage Form,,
+930MG/CAP,Dosage Form,,
+940MG/CAP,Dosage Form,,
+950MG/CAP,Dosage Form,,
+960MG/CAP,Dosage Form,,
+970MG/CAP,Dosage Form,,
+975MG/CAP,Dosage Form,,
+980MG/CAP,Dosage Form,,
+990MG/CAP,Dosage Form,,
+1000MG/CAP,Dosage Form,,
+62.5MG/5ML,Dosage,,
+100MG/5ML,Dosage,,
+125MG/5ML,Dosage,,
+125.5MG/5ML,Dosage,,
+150MG/5ML,Dosage,,
+200MG/5ML,Dosage,,
+250MG/5ML,Dosage,,
+300MG/5ML,Dosage,,
+375MG/5ML,Dosage,,
+400MG/5ML,Dosage,,
+500MG/5ML,Dosage,,
+600MG/5ML,Dosage,,
+625MG/5ML,Dosage,,
+0.5MG/ML,Dosage,,
+1MG/ML,Dosage,,
+2MG/ML,Dosage,,
+2.5MG/ML,Dosage,,
+4MG/ML,Dosage,,
+5MG/ML,Dosage,,
+10MG/ML,Dosage,,
+20MG/ML,Dosage,,
+25MG/ML,Dosage,,
+40MG/ML,Dosage,,
+50MG/ML,Dosage,,
+100MG/ML,Dosage,,
+10MCG,Dosage,,
+25MCG,Dosage,,
+30MCG,Dosage,,
+37.5MCG,Dosage,,
+44MCG,Dosage,,
+50MCG,Dosage,,
+60MCG,Dosage,,
+75MCG,Dosage,,
+88MCG,Dosage,,
+90MCG,Dosage,,
+100MCG,Dosage,,
+110MCG,Dosage,,
+112MCG,Dosage,,
+120MCG,Dosage,,
+125MCG,Dosage,,
+132MCG,Dosage,,
+137.5MCG,Dosage,,
+150MCG,Dosage,,
+175MCG,Dosage,,
+180MCG,Dosage,,
+200MCG,Dosage,,
+220MCG,Dosage,,
+250MCG,Dosage,,
+300MCG,Dosage,,
+400MCG,Dosage,,
+500MCG,Dosage,,
+600MCG,Dosage,,
+50MCG/PUFF,Dosage,,
+100MCG/PUFF,Dosage,,
+125MCG/PUFF,Dosage,,
+200MCG/PUFF,Dosage,,
+250MCG/PUFF,Dosage,,
+0.5G,Dosage,,
+1.2G,Dosage,,
+1.5G,Dosage,,
+2G,Dosage,,
+2.5G,Dosage,,
+3G,Dosage,,
+4G,Dosage,,
+5G,Dosage,,
+100IU,Dosage,,
+200IU,Dosage,,
+250IU,Dosage,,
+400IU,Dosage,,
+500IU,Dosage,,
+1000IU,Dosage,,
+2000IU,Dosage,,
+2500IU,Dosage,,
+5000IU,Dosage,,
+10000IU,Dosage,,
+20000IU,Dosage,,
+5MEQ,Dosage,,
+10MEQ,Dosage,,
+15MEQ,Dosage,,
+20MEQ,Dosage,,
+30MEQ,Dosage,,
+40MEQ,Dosage,,
+0.025%,Dosage,,
+0.05%,Dosage,,
+0.1%,Dosage,,
+0.25%,Dosage,,
+0.5%,Dosage,,
+0.75%,Dosage,,
+1%,Dosage,,
+1.5%,Dosage,,
+2%,Dosage,,
+2.5%,Dosage,,
+3%,Dosage,,
+5%,Dosage,,
+7.5%,Dosage,,
+10%,Dosage,,
+15%,Dosage,,
+20%,Dosage,,
+25%,Dosage,,
+30%,Dosage,,
+50%,Dosage,,
+0.5ML,Dosage,,
+1ML,Dosage,,
+1.5ML,Dosage,,
+2ML,Dosage,,
+2.5ML,Dosage,,
+3ML,Dosage,,
+3.5ML,Dosage,,
+4ML,Dosage,,
+6ML,Dosage,,
+7.5ML,Dosage,,
+8ML,Dosage,,
+9ML,Dosage,,
+12ML,Dosage,,
+12.5ML,Dosage,,
+20ML,Dosage,,
+25ML,Dosage,,
+30ML,Dosage,,
+40ML,Dosage,,
+50ML,Dosage,,
+60ML,Dosage,,
+75ML,Dosage,,
+80ML,Dosage,,
+100ML,Dosage,,
+120ML,Dosage,,
+125ML,Dosage,,
+150ML,Dosage,,
+200ML,Dosage,,
+250ML,Dosage,,
+500ML,Dosage,,
+1000ML,Dosage,,
+500MG/125MG,Dosage,,
+875MG/125MG,Dosage,,
+250MG/62.5MG,Dosage,,
+400MG/57MG,Dosage,,
+200MG/28.5MG,Dosage,,
+80MG/16MG,Dosage,,
+160MG/800MG,Dosage,,
+0.1MG/KG,Dosage,,
+0.1MG/KG/DAY,Dosage,,
+0.1MG/KG/DOSE,Dosage,,
+0.25MG/KG,Dosage,,
+0.25MG/KG/DAY,Dosage,,
+0.25MG/KG/DOSE,Dosage,,
+0.5MG/KG,Dosage,,
+0.5MG/KG/DAY,Dosage,,
+0.5MG/KG/DOSE,Dosage,,
+1MG/KG,Dosage,,
+1MG/KG/DAY,Dosage,,
+1MG/KG/DOSE,Dosage,,
+2MG/KG,Dosage,,
+2MG/KG/DAY,Dosage,,
+2MG/KG/DOSE,Dosage,,
+2.5MG/KG,Dosage,,
+2.5MG/KG/DAY,Dosage,,
+2.5MG/KG/DOSE,Dosage,,
+3MG/KG,Dosage,,
+3MG/KG/DAY,Dosage,,
+3MG/KG/DOSE,Dosage,,
+4MG/KG,Dosage,,
+4MG/KG/DAY,Dosage,,
+4MG/KG/DOSE,Dosage,,
+5MG/KG,Dosage,,
+5MG/KG/DAY,Dosage,,
+5MG/KG/DOSE,Dosage,,
+6MG/KG,Dosage,,
+6MG/KG/DAY,Dosage,,
+6MG/KG/DOSE,Dosage,,
+7.5MG/KG,Dosage,,
+7.5MG/KG/DAY,Dosage,,
+7.5MG/KG/DOSE,Dosage,,
+8MG/KG,Dosage,,
+8MG/KG/DAY,Dosage,,
+8MG/KG/DOSE,Dosage,,
+10MG/KG,Dosage,,
+10MG/KG/DAY,Dosage,,
+10MG/KG/DOSE,Dosage,,
+12MG/KG,Dosage,,
+12MG/KG/DAY,Dosage,,
+12MG/KG/DOSE,Dosage,,
+12.5MG/KG,Dosage,,
+12.5MG/KG/DAY,Dosage,,
+12.5MG/KG/DOSE,Dosage,,
+15MG/KG,Dosage,,
+15MG/KG/DAY,Dosage,,
+15MG/KG/DOSE,Dosage,,
+20MG/KG,Dosage,,
+20MG/KG/DAY,Dosage,,
+20MG/KG/DOSE,Dosage,,
+25MG/KG,Dosage,,
+25MG/KG/DAY,Dosage,,
+25MG/KG/DOSE,Dosage,,
+30MG/KG,Dosage,,
+30MG/KG/DAY,Dosage,,
+30MG/KG/DOSE,Dosage,,
+40MG/KG,Dosage,,
+40MG/KG/DAY,Dosage,,
+40MG/KG/DOSE,Dosage,,
+50MG/KG,Dosage,,
+50MG/KG/DAY,Dosage,,
+50MG/KG/DOSE,Dosage,,
+60MG/KG,Dosage,,
+60MG/KG/DAY,Dosage,,
+60MG/KG/DOSE,Dosage,,
+75MG/KG,Dosage,,
+75MG/KG/DAY,Dosage,,
+75MG/KG/DOSE,Dosage,,
+100MG/KG,Dosage,,
+100MG/KG/DAY,Dosage,,
+100MG/KG/DOSE,Dosage,,
+0.5MCG/KG/MIN,Dosage,,
+0.5MCG/KG/HR,Dosage,,
+1MCG/KG/MIN,Dosage,,
+1MCG/KG/HR,Dosage,,
+2MCG/KG/MIN,Dosage,,
+2MCG/KG/HR,Dosage,,
+2.5MCG/KG/MIN,Dosage,,
+2.5MCG/KG/HR,Dosage,,
+3MCG/KG/MIN,Dosage,,
+3MCG/KG/HR,Dosage,,
+5MCG/KG/MIN,Dosage,,
+5MCG/KG/HR,Dosage,,
+7.5MCG/KG/MIN,Dosage,,
+7.5MCG/KG/HR,Dosage,,
+10MCG/KG/MIN,Dosage,,
+10MCG/KG/HR,Dosage,,
+15MCG/KG/MIN,Dosage,,
+15MCG/KG/HR,Dosage,,
+20MCG/KG/MIN,Dosage,,
+20MCG/KG/HR,Dosage,,
+100MG XR,Dosage,,
+100MG ER,Dosage,,
+100MG SR,Dosage,,
+100MG CR,Dosage,,
+100MG LA,Dosage,,
+100MG MR,Dosage,,
+100MG SA,Dosage,,
+200MG XR,Dosage,,
+200MG ER,Dosage,,
+200MG SR,Dosage,,
+200MG CR,Dosage,,
+200MG LA,Dosage,,
+200MG MR,Dosage,,
+200MG SA,Dosage,,
+375MG XR,Dosage,,
+375MG ER,Dosage,,
+375MG SR,Dosage,,
+375MG CR,Dosage,,
+375MG LA,Dosage,,
+375MG MR,Dosage,,
+375MG SA,Dosage,,
+400MG XR,Dosage,,
+400MG ER,Dosage,,
+400MG SR,Dosage,,
+400MG CR,Dosage,,
+400MG LA,Dosage,,
+400MG MR,Dosage,,
+400MG SA,Dosage,,
+500MG XR,Dosage,,
+500MG ER,Dosage,,
+500MG SR,Dosage,,
+500MG CR,Dosage,,
+500MG LA,Dosage,,
+500MG MR,Dosage,,
+500MG SA,Dosage,,
+600MG XR,Dosage,,
+600MG ER,Dosage,,
+600MG SR,Dosage,,
+600MG CR,Dosage,,
+600MG LA,Dosage,,
+600MG MR,Dosage,,
+600MG SA,Dosage,,
+650MG XR,Dosage,,
+650MG ER,Dosage,,
+650MG SR,Dosage,,
+650MG CR,Dosage,,
+650MG LA,Dosage,,
+650MG MR,Dosage,,
+650MG SA,Dosage,,
+750MG XR,Dosage,,
+750MG ER,Dosage,,
+750MG SR,Dosage,,
+750MG CR,Dosage,,
+750MG LA,Dosage,,
+750MG MR,Dosage,,
+750MG SA,Dosage,,
+800MG XR,Dosage,,
+800MG ER,Dosage,,
+800MG SR,Dosage,,
+800MG CR,Dosage,,
+800MG LA,Dosage,,
+800MG MR,Dosage,,
+800MG SA,Dosage,,
+850MG XR,Dosage,,
+850MG ER,Dosage,,
+850MG SR,Dosage,,
+850MG CR,Dosage,,
+850MG LA,Dosage,,
+850MG MR,Dosage,,
+850MG SA,Dosage,,
+1000MG XR,Dosage,,
+1000MG ER,Dosage,,
+1000MG SR,Dosage,,
+1000MG CR,Dosage,,
+1000MG LA,Dosage,,
+1000MG MR,Dosage,,
+1000MG SA,Dosage,,
+1500MG XR,Dosage,,
+1500MG ER,Dosage,,
+1500MG SR,Dosage,,
+1500MG CR,Dosage,,
+1500MG LA,Dosage,,
+1500MG MR,Dosage,,
+1500MG SA,Dosage,,
+2000MG XR,Dosage,,
+2000MG ER,Dosage,,
+2000MG SR,Dosage,,
+2000MG CR,Dosage,,
+2000MG LA,Dosage,,
+2000MG MR,Dosage,,
+2000MG SA,Dosage,,
+7MG,Dosage,,
+9MG,Dosage,,
+11MG,Dosage,,
+12MG,Dosage,,
+13MG,Dosage,,
+14MG,Dosage,,
+16MG,Dosage,,
+17MG,Dosage,,
+18MG,Dosage,,
+19MG,Dosage,,
+21MG,Dosage,,
+22MG,Dosage,,
+23MG,Dosage,,
+24MG,Dosage,,
+26MG,Dosage,,
+27MG,Dosage,,
+28MG,Dosage,,
+29MG,Dosage,,
+31MG,Dosage,,
+32MG,Dosage,,
+33MG,Dosage,,
+34MG,Dosage,,
+35MG,Dosage,,
+36MG,Dosage,,
+37MG,Dosage,,
+38MG,Dosage,,
+39MG,Dosage,,
+41MG,Dosage,,
+42MG,Dosage,,
+43MG,Dosage,,
+44MG,Dosage,,
+45MG,Dosage,,
+46MG,Dosage,,
+47MG,Dosage,,
+48MG,Dosage,,
+49MG,Dosage,,
+51MG,Dosage,,
+52MG,Dosage,,
+53MG,Dosage,,
+54MG,Dosage,,
+55MG,Dosage,,
+56MG,Dosage,,
+57MG,Dosage,,
+58MG,Dosage,,
+59MG,Dosage,,
+61MG,Dosage,,
+62MG,Dosage,,
+63MG,Dosage,,
+64MG,Dosage,,
+66MG,Dosage,,
+67MG,Dosage,,
+68MG,Dosage,,
+69MG,Dosage,,
+70MG,Dosage,,
+71MG,Dosage,,
+72MG,Dosage,,
+73MG,Dosage,,
+74MG,Dosage,,
+76MG,Dosage,,
+77MG,Dosage,,
+78MG,Dosage,,
+79MG,Dosage,,
+81MG,Dosage,,
+82MG,Dosage,,
+83MG,Dosage,,
+84MG,Dosage,,
+85MG,Dosage,,
+86MG,Dosage,,
+87MG,Dosage,,
+88MG,Dosage,,
+89MG,Dosage,,
+91MG,Dosage,,
+92MG,Dosage,,
+93MG,Dosage,,
+94MG,Dosage,,
+95MG,Dosage,,
+96MG,Dosage,,
+97MG,Dosage,,
+98MG,Dosage,,
+99MG,Dosage,,
+170MG,Dosage,,
+190MG,Dosage,,
+230MG,Dosage,,
+270MG,Dosage,,
+290MG,Dosage,,
+330MG,Dosage,,
+340MG,Dosage,,
+360MG,Dosage,,
+370MG,Dosage,,
+380MG,Dosage,,
+390MG,Dosage,,
+410MG,Dosage,,
+430MG,Dosage,,
+440MG,Dosage,,
+470MG,Dosage,,
+490MG,Dosage,,
+510MG,Dosage,,
+530MG,Dosage,,
+540MG,Dosage,,
+570MG,Dosage,,
+590MG,Dosage,,
+60MG/5ML SUSPENSION,Dosage,,
+60MG/5ML SYRUP,Dosage,,
+100MG/5ML SUSPENSION,Dosage,,
+100MG/5ML SYRUP,Dosage,,
+120MG/5ML SUSPENSION,Dosage,,
+120MG/5ML SYRUP,Dosage,,
+125MG/5ML SUSPENSION,Dosage,,
+125MG/5ML SYRUP,Dosage,,
+150MG/5ML SUSPENSION,Dosage,,
+150MG/5ML SYRUP,Dosage,,
+200MG/5ML SUSPENSION,Dosage,,
+200MG/5ML SYRUP,Dosage,,
+240MG/5ML SUSPENSION,Dosage,,
+240MG/5ML SYRUP,Dosage,,
+250MG/5ML SUSPENSION,Dosage,,
+250MG/5ML SYRUP,Dosage,,
+300MG/5ML SUSPENSION,Dosage,,
+300MG/5ML SYRUP,Dosage,,
+400MG/5ML SUSPENSION,Dosage,,
+400MG/5ML SYRUP,Dosage,,
+500MG/5ML SUSPENSION,Dosage,,
+500MG/5ML SYRUP,Dosage,,
+0.1% OPHTHALMIC SOLUTION,Dosage,,
+0.1% OTIC SOLUTION,Dosage,,
+0.25% OPHTHALMIC SOLUTION,Dosage,,
+0.25% OTIC SOLUTION,Dosage,,
+0.3% OPHTHALMIC SOLUTION,Dosage,,
+0.3% OTIC SOLUTION,Dosage,,
+0.5% OPHTHALMIC SOLUTION,Dosage,,
+0.5% OTIC SOLUTION,Dosage,,
+1% OPHTHALMIC SOLUTION,Dosage,,
+1% OTIC SOLUTION,Dosage,,
+2% OPHTHALMIC SOLUTION,Dosage,,
+2% OTIC SOLUTION,Dosage,,
+2.5% OPHTHALMIC SOLUTION,Dosage,,
+2.5% OTIC SOLUTION,Dosage,,
+3% OPHTHALMIC SOLUTION,Dosage,,
+3% OTIC SOLUTION,Dosage,,
+4% OPHTHALMIC SOLUTION,Dosage,,
+4% OTIC SOLUTION,Dosage,,
+5% OPHTHALMIC SOLUTION,Dosage,,
+5% OTIC SOLUTION,Dosage,,
+25MCG/ACTUATION,Dosage,,
+25MCG/INHALATION,Dosage,,
+50MCG/ACTUATION,Dosage,,
+50MCG/INHALATION,Dosage,,
+100MCG/ACTUATION,Dosage,,
+100MCG/INHALATION,Dosage,,
+125MCG/ACTUATION,Dosage,,
+125MCG/INHALATION,Dosage,,
+200MCG/ACTUATION,Dosage,,
+200MCG/INHALATION,Dosage,,
+250MCG/ACTUATION,Dosage,,
+250MCG/INHALATION,Dosage,,
+500MCG/ACTUATION,Dosage,,
+500MCG/INHALATION,Dosage,,
+0.1ML,Dosage,,
+0.2ML,Dosage,,
+0.3ML,Dosage,,
+0.4ML,Dosage,,
+0.6ML,Dosage,,
+0.7ML,Dosage,,
+0.8ML,Dosage,,
+0.9ML,Dosage,,
+1.0ML,Dosage,,
+1.1ML,Dosage,,
+1.2ML,Dosage,,
+1.3ML,Dosage,,
+1.4ML,Dosage,,
+1.6ML,Dosage,,
+1.7ML,Dosage,,
+1.8ML,Dosage,,
+1.9ML,Dosage,,
+2.0ML,Dosage,,
+2.1ML,Dosage,,
+2.2ML,Dosage,,
+2.3ML,Dosage,,
+2.4ML,Dosage,,
+2.6ML,Dosage,,
+2.7ML,Dosage,,
+2.8ML,Dosage,,
+2.9ML,Dosage,,
+3.0ML,Dosage,,
+3.1ML,Dosage,,
+3.2ML,Dosage,,
+3.3ML,Dosage,,
+3.4ML,Dosage,,
+3.6ML,Dosage,,
+3.7ML,Dosage,,
+3.8ML,Dosage,,
+3.9ML,Dosage,,
+4.0ML,Dosage,,
+4.1ML,Dosage,,
+4.2ML,Dosage,,
+4.3ML,Dosage,,
+4.4ML,Dosage,,
+4.5ML,Dosage,,
+4.6ML,Dosage,,
+4.7ML,Dosage,,
+4.8ML,Dosage,,
+4.9ML,Dosage,,
+0.5MG/2.5ML NEBULE,Dosage,,
+0.5MG/3ML NEBULE,Dosage,,
+1MG/2.5ML NEBULE,Dosage,,
+1MG/3ML NEBULE,Dosage,,
+1.25MG/2.5ML NEBULE,Dosage,,
+1.25MG/3ML NEBULE,Dosage,,
+2MG/2.5ML NEBULE,Dosage,,
+2MG/3ML NEBULE,Dosage,,
+2.5MG/2.5ML NEBULE,Dosage,,
+2.5MG/3ML NEBULE,Dosage,,
+5MG/2.5ML NEBULE,Dosage,,
+5MG/3ML NEBULE,Dosage,,
+1/2 TAB,Dosage Form,,
+1/2 TABS,Dosage Form,,
+1/2 TABLET,Dosage Form,,
+1/2 TABLETS,Dosage Form,,
+1/2 CAP,Dosage Form,,
+1/2 CAPS,Dosage Form,,
+1/2 CAPSULE,Dosage Form,,
+1/2 CAPSULES,Dosage Form,,
+1 TABLET,Dosage Form,,
+1 TABLETS,Dosage Form,,
+1 CAPS,Dosage Form,,
+1 CAPSULES,Dosage Form,,
+1 1/2 TAB,Dosage Form,,
+1 1/2 TABS,Dosage Form,,
+1 1/2 TABLET,Dosage Form,,
+1 1/2 TABLETS,Dosage Form,,
+1 1/2 CAP,Dosage Form,,
+1 1/2 CAPS,Dosage Form,,
+1 1/2 CAPSULE,Dosage Form,,
+1 1/2 CAPSULES,Dosage Form,,
+2 TAB,Dosage Form,,
+2 TABLET,Dosage Form,,
+2 CAP,Dosage Form,,
+2 CAPSULE,Dosage Form,,
+2 1/2 TAB,Dosage Form,,
+2 1/2 TABS,Dosage Form,,
+2 1/2 TABLET,Dosage Form,,
+2 1/2 TABLETS,Dosage Form,,
+2 1/2 CAP,Dosage Form,,
+2 1/2 CAPS,Dosage Form,,
+2 1/2 CAPSULE,Dosage Form,,
+2 1/2 CAPSULES,Dosage Form,,
+3 TAB,Dosage Form,,
+3 TABS,Dosage Form,,
+3 TABLET,Dosage Form,,
+3 TABLETS,Dosage Form,,
+3 CAP,Dosage Form,,
+3 CAPS,Dosage Form,,
+3 CAPSULE,Dosage Form,,
+3 CAPSULES,Dosage Form,,
+4 TAB,Dosage Form,,
+4 TABS,Dosage Form,,
+4 TABLET,Dosage Form,,
+4 TABLETS,Dosage Form,,
+4 CAP,Dosage Form,,
+4 CAPS,Dosage Form,,
+4 CAPSULE,Dosage Form,,
+4 CAPSULES,Dosage Form,,
+1/2 TSP,Dosage,,
+1/2 TBSP,Dosage,,
+1/2 SACHET,Dosage Form,,
+1/2 SUPPOSITORY,Dosage Form,,
+1/2 SUPPOSITORIES,Dosage Form,,
+1/2 PATCH,Dosage Form,,
+1/2 PATCHES,Dosage Form,,
+1/2 PUFF,Dosage,,
+1/2 DROP,Dosage,,
+1/2 SPRAY,Dosage Form,,
+1/2 SPRAYS,Dosage Form,,
+1/2 AMPULE,Dosage Form,,
+1/2 VIAL,Dosage,,
+1/2 VIALS,Dosage,,
+1/2 UNIT,Dosage,,
+1/2 UNITS,Dosage,,
+1 TBSP,Dosage,,
+1 SACHET,Dosage Form,,
+1 SUPPOSITORY,Dosage Form,,
+1 SUPPOSITORIES,Dosage Form,,
+1 PATCH,Dosage Form,,
+1 PUFF,Dosage,,
+1 DROP,Dosage,,
+1 SPRAY,Dosage Form,,
+NASAL SPRAY,Dosage Form,,
+1 AMPULES,Dosage Form,,
+ONCE A DAY,Frequency,,
+TWICE A DAY,Frequency,,
+THREE TIMES A DAY,Frequency,,
+3X A DAY,Frequency,,
+3X/DAY,Frequency,,
+3X DAILY,Frequency,,
+TWICE DAILY,Frequency,,
+ONCE DAILY,Frequency,,
+DAILY,Frequency,,
+EVERY 8 HOURS,Frequency,,
+EVERY 8 HRS,Frequency,,
+EVERY 6 HOURS,Frequency,,
+6 HRS,Frequency,,
+EVERY 12 HOURS,Frequency,,
+EVERY DAY,Frequency,,
+AS NEEDED,Frequency,,
+AT BEDTIME,Instruction,,
+AT NIGHT,Instruction,,
+BEFORE MEALS,Instruction,,
+AFTER MEALS,Instruction,,
+WITH MEALS,Instruction,,
+AS NEEDED FOR PAIN,Frequency,,
+FOR 7 DAYS,Duration,,
+FOR 5 DAYS,Duration,,
+FOR 3 DAYS,Duration,,
+3-5 DAYS,Duration,,
+SEVEN DAYS,Duration,,
+5 DAYS,Duration,,
+7 DAYS,Duration,,
+10 DAYS,Duration,,
+14 DAYS,Duration,,
+1X A DAY,Frequency,,
+2X A DAY,Frequency,,
+4X A DAY,Frequency,,
+2X/DAY,Frequency,,
+2 WKS,Duration,,
+2 WEEKS,Duration,,
+PER NOSTRIL,Instruction,,
+BOTH NOSTRILS,Instruction,,
+EVERY 12 HRS,Frequency,,
+FOUR TIMES A DAY,Frequency,,
+ONCE EVERY 4 HOURS,Frequency,,
+ONCE EVERY 6 HOURS,Frequency,,
+ONCE EVERY 8 HOURS,Frequency,,
+ONCE EVERY 12 HOURS,Frequency,,
+EVERY 4 HOURS,Frequency,,
+EVERY 24 HOURS,Frequency,,
+EVERY OTHER DAY,Frequency,,
+ONCE A WEEK,Frequency,,
+TWICE A WEEK,Frequency,,
+THREE TIMES A WEEK,Frequency,,
+TWICE WEEKLY,Frequency,,
+THRICE WEEKLY,Frequency,,
+AS NEEDED FOR FEVER,Frequency,,
+AS NEEDED FOR COUGH,Frequency,,
+AS NEEDED FOR ITCHINESS,Frequency,,
+AS DIRECTED,Instruction,,
+ON AN EMPTY STOMACH,Instruction,,
+IN THE MORNING,Instruction,,
+IN THE EVENING,Instruction,,
+BEFORE BREAKFAST,Instruction,,
+BEFORE BREAKFAST & SUPPER,Instruction,,
+AFTER BREAKFAST,Instruction,,
+BEFORE LUNCH,Instruction,,
+AFTER LUNCH,Instruction,,
+BEFORE DINNER,Instruction,,
+AFTER DINNER,Instruction,,
+1-2 SPRAYS,Instruction,,
+2 SPRAYS,Instruction,,
+1 SPRAYS,Instruction,,
+FOR 1 DAY,Duration,,
+FOR 2 DAYS,Duration,,
+FOR 4 DAYS,Duration,,
+FOR 6 DAYS,Duration,,
+FOR 10 DAYS,Duration,,
+FOR 14 DAYS,Duration,,
+FOR 21 DAYS,Duration,,
+FOR 1 MONTH,Duration,,
+FOR 2 WEEKS,Duration,,
+FOR 3 WEEKS,Duration,,
+UNTIL FINISHED,Duration,,
+CONTINUE FOR 7 DAYS,Duration,,
+CONTINUE UNTIL NEXT CHECKUP,Duration,,
+1X/DAY,Frequency,,
+4X/DAY,Frequency,,
+ONCE EVERY OTHER DAY,Frequency,,
+TWICE A MONTH,Frequency,,
+ONCE A MONTH,Frequency,,
+PER EYE,Instruction,,
+BOTH EYES,Instruction,,
+LEFT EYE,Instruction,,
+LEFT EAR,Instruction,,
+RIGHT EAR,Instruction,,
+BOTH EARS,Instruction,,
+SUBLINGUALLY,Instruction,,
+TOPICALLY,Instruction,,
+APPLY TO AFFECTED AREA,Instruction,,
+APPLY TWICE DAILY,Frequency,,
+APPLY THREE TIMES DAILY,Frequency,,
+APPLY ONCE DAILY,Frequency,,
+INSTILL 2 DROPS,Instruction,,
+INSTILL 1 DROP,Instruction,,
+INSTILL 2 DROPS EACH EYE,Instruction,,
+NEBULIZE EVERY 4 HOURS,Frequency,,
+NEBULIZE EVERY 6 HOURS,Frequency,,
+NEBULIZE EVERY 8 HOURS,Frequency,,
+NEBULIZE AS NEEDED,Frequency,,
+GIVE 1 TABLET NOW,Instruction,,
+GIVE STAT DOSE,Instruction,,
+REPEAT AFTER 4 HOURS,Frequency,,
+REPEAT IF NEEDED,Instruction,,
+DO NOT EXCEED 4 DOSES PER DAY,Frequency,,
+MAXIMUM 4 TIMES A DAY,Frequency,,
+MAXIMUM 3 TIMES A DAY,Frequency,,
+NOT MORE THAN 6 DOSES IN 24 HOURS,Frequency,,
+TAKE WITH FULL GLASS OF WATER,Instruction,,
+TAKE ON WAKING,Instruction,,
+TAKE BEFORE SLEEP,Instruction,,
+1 TAB EVERY 4 HOURS,Frequency,,
+1 TAB EVERY 6 HOURS,Frequency,,
+1 TAB EVERY 8 HOURS,Frequency,,
+2 TABS EVERY 6 HOURS,Frequency,,
+1 TAB EVERY 12 HOURS,Frequency,,
+2 TABS NOW THEN 1 TAB EVERY 6 HOURS,Frequency,,
+DAILY FOR 5 DAYS,Frequency,,
+DAILY FOR 7 DAYS,Frequency,,
+DAILY FOR 10 DAYS,Frequency,,
+ONCE A WEEK FOR 4 WEEKS,Frequency,,
+REGULARLY,Frequency,,
+INDEFINITELY,Duration,,
+LIFETIME,Duration,,
+UNTIL SYMPTOMS RESOLVE,Duration,,
+UNTIL NEXT FOLLOW UP,Duration,,
+FOR 30 DAYS,Duration,,
+FOR 90 DAYS,Duration,,
+EVERY 2 HOURS,Frequency,,
+EVERY 3 HOURS,Frequency,,
+EVERY 2 DAYS,Frequency,,
+EVERY 5 DAYS,Frequency,,
+3 DAYS,Duration,,
+6 DAYS,Duration,,
+21 DAYS,Duration,,
+30 DAYS,Duration,,
+1 MONTH,Duration,,
+3 MONTHS,Duration,,
+6 MONTHS,Duration,,
+12 MONTHS,Duration,,
+OD,Abbreviation,Right eye (oculus dexter); also once a day (omni die),
+OS,Abbreviation,Left eye (oculus sinister),
+OU,Abbreviation,Both eyes (oculus uterque),
+AS,Abbreviation,Left ear (auris sinistra),
+AD,Abbreviation,Right ear (auris dextra),
+AU,Abbreviation,Both ears (auris utraque),
+BID,Abbreviation,Twice a day,
+TID,Abbreviation,Three times a day,
+QID,Abbreviation,Four times a day,
+1 X,Abbreviation,Once daily,
+2 X,Abbreviation,Twice daily,
+3 X,Abbreviation,Three times daily,
+4 X,Abbreviation,Four times daily,
+1X,Abbreviation,Once daily,
+2X,Abbreviation,Twice daily,
+3X,Abbreviation,Three times daily,
+4X,Abbreviation,Four times daily,
+PRN,Abbreviation,As needed,
+HS,Abbreviation,At bedtime,
+AC,Abbreviation,Before meals,
+PC,Abbreviation,After meals,
+Q4H,Abbreviation,Every 4 hours,
+Q6H,Abbreviation,Every 6 hours,
+Q8H,Abbreviation,Every 8 hours,
+Q12H,Abbreviation,Every 12 hours,
+STAT,Abbreviation,Immediately,
+NPO,Abbreviation,Nothing by mouth,
+IM,Abbreviation,Intramuscular,
+IV,Abbreviation,Intravenous,
+PO,Abbreviation,By mouth,
+SL,Abbreviation,Sublingual,
+SC,Abbreviation,Subcutaneous,
+TAB,Dosage Form,Tablet,
+CAP,Dosage Form,Capsule,
+SYP,Abbreviation,Syrup,
+DAW,Abbreviation,Dispense as written,
+HTN,Abbreviation,Hypertension,
+DM,Abbreviation,Diabetes mellitus,
+URTI,Abbreviation,Upper respiratory tract infection,
+BP,Abbreviation,Blood pressure,
+HR,Abbreviation,Heart rate,
+RR,Abbreviation,Respiratory rate,
+CC,Abbreviation,Chief complaint,
+HPI,Abbreviation,History of present illness,
+PNDF,Abbreviation,Philippine National Drug Formulary,
+DOH,Abbreviation,Department of Health,
+PHIC,Abbreviation,Philhealth Insurance Corporation,
+NDC,Abbreviation,National drug code,
+RHU,Abbreviation,Rural health unit,
+CHD,Abbreviation,Center for Health Development,
+SQ,Abbreviation,Subcutaneous,
+CBR,Abbreviation,Complete bed rest,
+MBR,Abbreviation,Modified bed rest,
+MDR,Abbreviation,Multi-drug resistant,
+DOTS,Abbreviation,Directly observed treatment short-course,
+TB,Abbreviation,Tuberculosis,
+FPG,Abbreviation,Fasting plasma glucose,
+RBS,Abbreviation,Random blood sugar,
+CBC,Abbreviation,Complete blood count,
+UA,Abbreviation,Urinalysis,
+PT,Abbreviation,Patient,
+OB,Abbreviation,Obstetrics,
+OR,Abbreviation,Operating room,
+RA,Abbreviation,Rheumatoid arthritis,
+QD,Abbreviation,Once daily,
+BD,Abbreviation,Twice daily,
+TDS,Abbreviation,Three times daily,
+QDS,Abbreviation,Four times daily,
+QHS,Abbreviation,At bedtime,
+SOS,Abbreviation,If needed (once only),
+NOCTE,Abbreviation,At night,
+MANE,Abbreviation,In the morning,
+AD LIB,Abbreviation,As desired / freely,
+PR,Abbreviation,Per rectum,
+PV,Abbreviation,Per vaginum,
+ID,Abbreviation,Intradermal,
+TOP,Abbreviation,Topical / external use,
+EXT,Abbreviation,Topical / external use,
+INJ,Dosage Form,Injection,
+NGT,Abbreviation,Nasogastric tube,
+ET,Abbreviation,Endotracheal,
+SYR,Dosage Form,Syrup,
+SUSP,Dosage Form,Suspension,
+SUPP,Dosage Form,Suppository,
+OINT,Dosage Form,Ointment,
+SOL,Abbreviation,Solution,
+GTT,Abbreviation,"Drops (guttae; drop unit, commonly used for eye or ear drops)",
+AMP,Dosage Form,Ampule,
+VIAL,Dosage Form,Small sealed drug container,
+ELIX,Abbreviation,Elixir,
+TD,Abbreviation,Transdermal patch,
+TEMP,Abbreviation,Temperature,
+SPO2,Abbreviation,Oxygen saturation,
+BMI,Abbreviation,Body mass index,
+I/O,Abbreviation,Intake/Output,
+T1DM,Abbreviation,Type 1 diabetes mellitus,
+T2DM,Abbreviation,Type 2 diabetes mellitus,
+CAD,Abbreviation,Coronary artery disease,
+CHF,Abbreviation,Congestive heart failure,
+COPD,Abbreviation,Chronic obstructive pulmonary disease,
+CKD,Abbreviation,Chronic kidney disease,
+URI,Abbreviation,Upper respiratory infection,
+GERD,Abbreviation,Gastroesophageal reflux disease,
+AKI,Abbreviation,Acute kidney injury,
+MI,Abbreviation,Myocardial infarction,
+CVA,Abbreviation,Cerebrovascular accident (stroke),
+DVT,Abbreviation,Deep vein thrombosis,
+PE,Abbreviation,Pulmonary embolism,
+PNA,Abbreviation,Pneumonia,
+FBS,Abbreviation,Fasting blood sugar,
+FS,Abbreviation,Fully Served,
+LFT,Abbreviation,Liver function test,
+RFT,Abbreviation,Renal/kidney function test,
+KFT,Abbreviation,Renal/kidney function test,
+ECG,Abbreviation,Electrocardiogram,
+EKG,Abbreviation,Electrocardiogram,
+CXR,Abbreviation,Chest X-ray,
+USG,Abbreviation,Ultrasonography,
+U/S,Abbreviation,Ultrasound (ultrasonography),
+ABG,Abbreviation,Arterial blood gas,
+ESR,Abbreviation,Erythrocyte sedimentation rate,
+CRP,Abbreviation,C-reactive protein,
+INR,Abbreviation,International normalized ratio,
+SX,Abbreviation,Symptoms,
+TX,Abbreviation,Treatment,
+FX,Abbreviation,Fracture,
+PMH,Abbreviation,Past medical history,
+FH,Abbreviation,Family history,
+SH,Abbreviation,Social history,
+O/E,Abbreviation,On examination,
+O/S,Abbreviation,Left eye (oculus sinister),
+C/O,Abbreviation,Complains of,
+NAD,Abbreviation,No abnormality detected,
+WNL,Abbreviation,Within normal limits,
+F/U,Abbreviation,Follow-up,
+WT,Abbreviation,Weight,
+HT,Abbreviation,Height,
+D/C,Abbreviation,"Discharge (or discontinue -- ambiguous, flagged by ISMP)",
+ADV,Abbreviation,Advised,
+BERA,Abbreviation,Brainstem Evoked Response Audiometry,
+OAE,Abbreviation,Otoacoustic Emissions,
+CT,Abbreviation,Computed Tomography,
+MRI,Abbreviation,Magnetic Resonance Imaging,
+HX,Abbreviation,History,
+DX,Abbreviation,Diagnosis,
+PSH,Abbreviation,Past surgical history,
+OPD,Abbreviation,Outpatient department,
+IPD,Abbreviation,Inpatient department,
+ER,Abbreviation,Emergency room/department,
+ED,Abbreviation,Emergency room/department,
+NKDA,Abbreviation,No known drug allergies,
+NKA,Abbreviation,No known allergies,
+S/P,Abbreviation,Status post,
+LMP,Abbreviation,Last menstrual period,
+AOG,Abbreviation,Age of gestation / Gestational age,
+GA,Abbreviation,Age of gestation / Gestational age,
+UTI,Abbreviation,Urinary tract infection,
+SIG,Abbreviation,Directions for use,
+S,Symbol,Directions for use,
+NAC,Drug,N-Acetylcysteine,Generic
+COLD COMPRESS,Treatment,,
+WARM COMPRESS,Treatment,,
+HOT COMPRESS,Treatment,,
+ICE PACK,Treatment,,
+NEBULIZATION,Treatment,,
+BED REST,Treatment,,
+WOUND DRESSING,Treatment,,
+SALINE GARGLE,Treatment,,
+ORAL REHYDRATION THERAPY,Treatment,,
+STEAM INHALATION,Treatment,,
+SITZ BATH,Treatment,,
+SPLINT,Treatment,,
+ELEVATION,Treatment,,
+PHYSICAL THERAPY,Treatment,,
+FOLLOW UP,Treatment,,
+REFERRAL,Treatment,,
+GARGLE,Treatment,,
+WOUND CLEANING,Treatment,,
+IV FLUID THERAPY,Treatment,,
+OXYGEN THERAPY,Treatment,,
+SUCTIONING,Treatment,,
+CATHETERIZATION,Treatment,,
+NASOGASTRIC TUBE INSERTION,Treatment,,
+WOUND DEBRIDEMENT,Treatment,,
+INCISION AND DRAINAGE,Treatment,,
+SUTURING,Treatment,,
+CASTING,Treatment,,
+IMMOBILIZATION,Treatment,,
+COMPRESSION BANDAGE,Treatment,,
+ANTIPYRETIC THERAPY,Treatment,,
+ANTIBIOTIC THERAPY,Treatment,,
+SUPPORTIVE CARE,Treatment,,
+MONITORING OF VITAL SIGNS,Treatment,,
+FLUID MONITORING,Treatment,,
+STRICT MONITORING FOR WARNING SIGNS,Treatment,,
+HOSPITALIZATION,Treatment,,
+ADMISSION FOR OBSERVATION,Treatment,,
+DISCHARGE WITH HOME CARE INSTRUCTIONS,Treatment,,
+HEALTH TEACHING,Treatment,,
+NUTRITION COUNSELING,Treatment,,
+WOUND CARE,Treatment,,
+DRESSING CHANGE,Treatment,,
+TETANUS PROPHYLAXIS,Treatment,,
+VACCINATION,Treatment,,
+IMMUNIZATION,Treatment,,
+DEWORMING,Treatment,,
+FOGGING,Treatment,,
+MOSQUITO CONTROL,Treatment,,
+VECTOR CONTROL,Treatment,,
+SEARCH AND DESTROY,Treatment,,
+ENVIRONMENTAL SANITATION,Treatment,,
+HEALTH EDUCATION,Treatment,,
+ISOLATION,Treatment,,
+QUARANTINE,Treatment,,
+CONTACT PRECAUTIONS,Treatment,,
+DROPLET PRECAUTIONS,Treatment,,
+AIRBORNE PRECAUTIONS,Treatment,,
+REST AND HYDRATION,Treatment,,
+INCREASE FLUID INTAKE,Treatment,,
+AVOID NSAIDS,Treatment,,
+AVOID ASPIRIN,Treatment,,
+MONITOR PLATELET COUNT,Treatment,,
+MONITOR HEMATOCRIT,Treatment,,
+CBC MONITORING,Treatment,,
+REPEAT CBC,Treatment,,
+CLOSE MONITORING,Treatment,,
+DAILY DRESSING CHANGE,Treatment,,
+ELEVATION OF AFFECTED LIMB,Treatment,,
+COLD THERAPY,Treatment,,
+HEAT THERAPY,Treatment,,
+MASSAGE THERAPY,Treatment,,
+CHEST PHYSIOTHERAPY,Treatment,,
+POSTURAL DRAINAGE,Treatment,,
+INCENTIVE SPIROMETRY,Treatment,,
+BREATHING EXERCISES,Treatment,,
+COUNSELING,Treatment,,
+PSYCHOSOCIAL SUPPORT,Treatment,,
+DIETARY MODIFICATION,Treatment,,
+WEIGHT MANAGEMENT,Treatment,,
+SMOKING CESSATION COUNSELING,Treatment,,
+ALCOHOL CESSATION COUNSELING,Treatment,,
+BLOOD TRANSFUSION,Treatment,,
+PLATELET TRANSFUSION,Treatment,,
+PLASMA TRANSFUSION,Treatment,,
+BLOOD TYPING AND CROSSMATCHING,Treatment,,
+WOUND IRRIGATION,Treatment,,
+PRESSURE DRESSING,Treatment,,
+TOURNIQUET APPLICATION,Treatment,,
+CPR,Treatment,,
+ENDOTRACHEAL INTUBATION,Treatment,,
+MECHANICAL VENTILATION,Treatment,,
+DIALYSIS,Treatment,,
+HEMODIALYSIS,Treatment,,
+PERITONEAL DIALYSIS,Treatment,,
+PHOTOTHERAPY,Treatment,,
+CHEMOTHERAPY,Treatment,,
+RADIOTHERAPY,Treatment,,
+SURGERY,Treatment,,
+APPENDECTOMY,Treatment,,
+CHOLECYSTECTOMY,Treatment,,
+CESAREAN SECTION,Treatment,,
+BIOPSY,Treatment,,
+ASPIRATION,Treatment,,
+LUMBAR PUNCTURE,Treatment,,
+SKIN TESTING,Treatment,,
+ALLERGY TESTING,Treatment,,
+PATCH TESTING,Treatment,,
+TOURNIQUET TEST,Treatment,,
+RAPID ANTIGEN TEST,Treatment,,
+PCR TESTING,Treatment,,
+SPUTUM EXAMINATION,Treatment,,
+URINALYSIS,Treatment,,
+STOOL EXAMINATION,Treatment,,
+ORAL HYGIENE,Treatment,,
+PERINEAL CARE,Treatment,,
+CATHETER CARE,Treatment,,
+TRACHEOSTOMY CARE,Treatment,,
+COLOSTOMY CARE,Treatment,,
+POSITIONING,Treatment,,
+REPOSITIONING,Treatment,,
+AMBULATION,Treatment,,
+RANGE OF MOTION EXERCISES,Treatment,,
+OCCUPATIONAL THERAPY,Treatment,,
+SPEECH THERAPY,Treatment,,
+NUTRITIONAL SUPPORT,Treatment,,
+ENTERAL FEEDING,Treatment,,
+PARENTERAL NUTRITION,Treatment,,
+WOUND CULTURE,Treatment,,
+BLOOD CULTURE,Treatment,,
+URINE CULTURE,Treatment,,
+1-1-1,Symbol,Take in the morning / afternoon / night (1 tablet three times a day),
+1-0-1,Symbol,Take in the morning and at night (1 tablet twice a day),
+1-0-0,Symbol,Take in the morning (1 tablet once daily),
+0-1-1,Symbol,Take in the afternoon and at night (1 tablet twice a day),
+0-1-0,Symbol,Take in the afternoon (1 tablet once daily),
+0-0-1,Symbol,Take at night (1 tablet once daily),
+1-1-0,Symbol,Take in the morning and afternoon (1 tablet twice a day),
+0-0-0,Symbol,Do not take,
+#,Symbol,Total quantity to dispense,
+Q,Symbol,Every or each,
+NA,Symbol,Sodium,
+-,Symbol,Take 1 tablet before/after meal/s,
+â€¢,Symbol,Take 1 tablet before/after meal/s,
+â€”,Symbol,Take 1 tablet before/after meal/s,
+CÌ„,Symbol,Take with food,
+SÌ„,Symbol,Take on an empty stomach,
+SSÌ„,Symbol,Half tablet,
+Ä€,Symbol,Before,
+PÌ„,Symbol,After,
+0-0-2,Symbol,2 at Night,
+0-1-2,Symbol,1 at Noon; 2 at Night,
+0-2-0,Symbol,2 at Noon,
+0-2-1,Symbol,2 at Noon; 1 at Night,
+0-2-2,Symbol,2 at Noon; 2 at Night,
+1-0-2,Symbol,1 at Morning; 2 at Night,
+1-1-2,Symbol,1 at Morning; 1 at Noon; 2 at Night,
+1-2-0,Symbol,1 at Morning; 2 at Noon,
+1-2-1,Symbol,1 at Morning; 2 at Noon; 1 at Night,
+1-2-2,Symbol,1 at Morning; 2 at Noon; 2 at Night,
+2-0-0,Symbol,2 at Morning,
+2-0-1,Symbol,2 at Morning; 1 at Night,
+2-0-2,Symbol,2 at Morning; 2 at Night,
+2-1-0,Symbol,2 at Morning; 1 at Noon,
+2-1-1,Symbol,2 at Morning; 1 at Noon; 1 at Night,
+2-1-2,Symbol,2 at Morning; 1 at Noon; 2 at Night,
+2-2-0,Symbol,2 at Morning; 2 at Noon,
+2-2-1,Symbol,2 at Morning; 2 at Noon; 1 at Night,
+2-2-2,Symbol,2 at Morning; 2 at Noon; 2 at Night,
+0-0-0-0,Symbol,Do not take,
+0-0-0-1,Symbol,1 at Night,
+0-0-1-0,Symbol,1 at Evening,
+0-0-1-1,Symbol,1 at Evening; 1 at Night,
+0-1-0-0,Symbol,1 at Noon,
+0-1-0-1,Symbol,1 at Noon; 1 at Night,
+0-1-1-0,Symbol,1 at Noon; 1 at Evening,
+0-1-1-1,Symbol,1 at Noon; 1 at Evening; 1 at Night,
+1-0-0-0,Symbol,1 at Morning,
+1-0-0-1,Symbol,1 at Morning; 1 at Night,
+1-0-1-0,Symbol,1 at Morning; 1 at Evening,
+1-0-1-1,Symbol,1 at Morning; 1 at Evening; 1 at Night,
+1-1-0-0,Symbol,1 at Morning; 1 at Noon,
+1-1-0-1,Symbol,1 at Morning; 1 at Noon; 1 at Night,
+1-1-1-0,Symbol,1 at Morning; 1 at Noon; 1 at Evening,
+1-1-1-1,Symbol,1 at Morning; 1 at Noon; 1 at Evening; 1 at Night,
+TABLET,Dosage Form,,
+TABLETS,Dosage Form,,
+CAPSULE,Dosage Form,,
+CAPSULES,Dosage Form,,
+SYRUP,Dosage Form,,
+PATCH,Dosage Form,,
+PATCHES,Dosage Form,,
+SPRAY,Dosage Form,,
+SPRAYS,Dosage Form,,
+SUPPOSITORY,Dosage Form,,
+SUPPOSITORIES,Dosage Form,,
+AMPULE,Dosage Form,,
+AMPULES,Dosage Form,,
+GEL,Dosage Form,,
+CREAM,Dosage Form,,
+CREAM/GEL,Dosage Form,,
+2-3 DAYS,Duration,,
+1-2 SPRAYS,Instruction,,
